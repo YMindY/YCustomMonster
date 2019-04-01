@@ -1,2 +1,2 @@
-# YCustomMonster
-DIY your own Monster!(PocketMine Plugin)
+# YCustomMonster (PocketMine Plugin)
+DIY your own Monster!
